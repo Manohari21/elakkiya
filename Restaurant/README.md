@@ -1,6 +1,7 @@
 # Restaurant-Ordering
 Order Food online and then place order
 
+For testing purpose
 
 Set up:
 
